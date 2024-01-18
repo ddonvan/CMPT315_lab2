@@ -11,11 +11,11 @@ Describe the intended intent
 
 **Install it:**
 
-`npm install @username/<project-title>`
+`npm install @ddonvan/<project-title>`
 
 **Require it:**
 
-`const _ = require('@username/<project-title>');`
+`const _ = require('@ddonvan/<project-title>');`
 
 **Call it:**
 
